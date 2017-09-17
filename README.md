@@ -1,9 +1,9 @@
 # react-redux-setup
 React With  Redux....
 
-### Installing
+### Installation
 
-Just run follwing command in terminal to go
+Just run follwing command in terminal to run code
 
 `````````
 npm start
