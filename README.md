@@ -3,7 +3,7 @@ React With  Redux....
 
 ### Installation
 
-Just run follwing command in terminal to run React with Redux.
+Just run following command in terminal to run React with Redux.
 
 `````````
 npm start
